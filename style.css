@@ -653,6 +653,9 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
+footer ul a{
+    color: #FFF!important;
+}
 
 .container {
     max-width: 1000px;
